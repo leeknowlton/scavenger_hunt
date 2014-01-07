@@ -144,7 +144,7 @@ public class EditGame extends Activity {
 
         });
     }
-
+    
     private ArrayList<String> getItemList() {
         ArrayList<String> itemList = new ArrayList<String>();
         ArrayAdapter<String> adapter = getItemAdapter();
